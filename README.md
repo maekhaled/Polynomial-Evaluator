@@ -61,8 +61,6 @@ Sum: 4.0x^5 + 8.0x^4 + 2.0x^3 + -1.0x + 12.0
 4. QUIT
  Enter choice # => 1
 Enter the file containing the polynomial to add => ptest1opp.txt
-CS112 Spring 2019: Programming Assignment 1 - Polynomial 2019/2/10 上午11'52
-https://www.cs.rutgers.edu/courses/112/classes/spring_2019_venugopal/progs/prog1/prog1.html 第 4 ⻚（共 5 ⻚）
 -4.0x^5 + 2.0x^3 + -2.0x + -3.0
 Sum: 0
 1. ADD polynomial
