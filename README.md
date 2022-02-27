@@ -1,4 +1,5 @@
 # Polynomial
+Rutgers CS112: Assignment 1
 
 This project implements polynomials and operations on them using a linked list. This polynomial calculator can perform arithmetic operations on two polynomials or evaluate a polynomial expression for a given value. 
 
