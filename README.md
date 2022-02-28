@@ -20,7 +20,7 @@ A polynomial is read from an input file in the format:
 	 *     <coeff> <degree>
 	 *     ...
 	 *     <coeff> <degree>
-	 * with the GUARENTEE that degrees will be in descending order. For example:
+	 * with the GUARANTEE that degrees will be in descending order. For example:
 	 *      4 5
 	 *     -2 3
 	 *      2 1
